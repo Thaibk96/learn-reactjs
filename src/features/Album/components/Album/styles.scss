@@ -1,0 +1,9 @@
+.album {
+    &-thumbnail{
+        width: 190px;
+        border-radius: 0.5rem;
+    }
+    &-name{
+        font-weight: bold;
+    }
+}
